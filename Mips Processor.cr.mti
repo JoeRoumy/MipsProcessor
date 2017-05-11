@@ -1,0 +1,162 @@
+{C:/Users/Youssef/Google Drive/CA/controlUnit.v} {1 {vlog -work work -stats=none {C:\Users\Youssef\Google Drive\CA\controlUnit.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module controlUnit
+
+Top level modules:
+	controlUnit
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/EXEMEM.v} {1 {vlog -work work -stats=none {C:/Users/Youssef/Google Drive/CA/EXEMEM.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module EXMEM
+
+Top level modules:
+	EXMEM
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/Data.v} {1 {vlog -work work -stats=none {C:\Users\Youssef\Google Drive\CA\Data.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module data
+
+Top level modules:
+	data
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/alu.v} {1 {vlog -work work -stats=none {C:/Users/Youssef/Google Drive/CA/alu.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/IDEX.v} {1 {vlog -work work -stats=none {C:/Users/Youssef/Google Drive/CA/IDEX.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module IDEX
+
+Top level modules:
+	IDEX
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/forwarding.v} {1 {vlog -work work -stats=none {C:/Users/Youssef/Google Drive/CA/forwarding.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module forwarding
+
+Top level modules:
+	forwarding
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/muxi.v} {1 {vlog -work work -stats=none {C:/Users/Youssef/Google Drive/CA/muxi.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module muxi
+
+Top level modules:
+	muxi
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/adder4.v} {1 {vlog -work work -stats=none {C:/Users/Youssef/Google Drive/CA/adder4.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module adder4
+
+Top level modules:
+	adder4
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/IFID.v} {1 {vlog -work work -stats=none {C:/Users/Youssef/Google Drive/CA/IFID.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module IFID
+
+Top level modules:
+	IFID
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/clock.v} {1 {vlog -work work -stats=none {C:\Users\Youssef\Google Drive\CA\clock.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module clock
+
+Top level modules:
+	clock
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/registerFile.v} {1 {vlog -work work -stats=none {C:/Users/Youssef/Google Drive/CA/registerFile.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module registerFile
+
+Top level modules:
+	registerFile
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/adder32.v} {1 {vlog -work work -stats=none {C:\Users\Youssef\Google Drive\CA\adder32.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module adder32
+
+Top level modules:
+	adder32
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/pcCircuit.v} {1 {vlog -work work -stats=none {C:/Users/Youssef/Google Drive/CA/pcCircuit.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module pcCircuit
+
+Top level modules:
+	pcCircuit
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/mux32_1.v} {1 {vlog -work work -stats=none {C:/Users/Youssef/Google Drive/CA/mux32_1.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module mux32_1
+
+Top level modules:
+	mux32_1
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/MEMWB.v} {1 {vlog -work work -stats=none {C:/Users/Youssef/Google Drive/CA/MEMWB.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module MEMWB
+
+Top level modules:
+	MEMWB
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/signExtend.v} {1 {vlog -work work -stats=none {C:\Users\Youssef\Google Drive\CA\signExtend.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module signExtend
+
+Top level modules:
+	signExtend
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/InstructionMemory.v} {1 {vlog -work work -stats=none {C:\Users\Youssef\Google Drive\CA\InstructionMemory.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module InstructionMemory
+-- Compiling module t_test
+
+Top level modules:
+	t_test
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/main.v} {1 {vlog -work work -stats=none {C:/Users/Youssef/Google Drive/CA/main.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module clock
+-- Compiling module pcCircuit
+-- Compiling module adder32
+-- Compiling module adder4
+-- Compiling module InstructionMemory
+-- Compiling module t_test
+-- Compiling module IFID
+-- Compiling module IDEX
+-- Compiling module controlUnit
+-- Compiling module registerFile
+-- Compiling module signExtend
+-- Compiling module aluCtrl
+-- Compiling module mux32_1
+-- Compiling module alu
+-- Compiling module EXMEM
+-- Compiling module data
+-- Compiling module MEMWB
+-- Compiling module forwarding
+-- Compiling module muxi
+-- Compiling module main
+
+Top level modules:
+	t_test
+	main
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/aluCtrl.v} {1 {vlog -work work -stats=none {C:\Users\Youssef\Google Drive\CA\aluCtrl.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module aluCtrl
+
+Top level modules:
+	aluCtrl
+
+} {} {}} {C:/Users/Youssef/Google Drive/CA/test.v} {1 {vlog -work work -stats=none {C:/Users/Youssef/Google Drive/CA/test.v}
+Model Technology ModelSim ALTERA vlog 10.4d Compiler 2015.12 Dec 30 2015
+-- Compiling module test
+
+Top level modules:
+	test
+
+} {} {}}
